@@ -113,7 +113,7 @@
 /* ### section 3 ###################################################### */
 
 .product {
-    background-image: url(../assets/images/burgers_bg.png);
+    background-image: url('../assets/images/burgers_bg.png');
     background-position: top center;
     background-size: 1400px;
     padding-bottom: 180px;
