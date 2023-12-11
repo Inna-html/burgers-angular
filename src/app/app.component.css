@@ -199,9 +199,9 @@
     margin-left: 674px;
 }
 .order-form-text {
-font-size: 24px;
-line-height: 29px;
-text-align: center;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
 }
 .order-form-inputs {
     display: flex;
@@ -210,7 +210,7 @@ text-align: center;
 }
 .order-form-input {
     width: 344px;
-    height: 62px;
+    height: 64px;
     background: linear-gradient(95.61deg, #DA8023 0%,  #E2B438 100%);
     border-radius: 8px;
     margin-bottom: 20px;
